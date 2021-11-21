@@ -1,0 +1,119 @@
+cscope 15 $HOME/yocto/meta-mylayer/recipes-kernel/hello-mod/files               0000000796
+	@hello.c
+
+20 
+	~<lšux/moduË.h
+>
+
+22 
+__š™
+ 
+	$h–lo_moduË_š™
+()
+
+24 
+	`´_šfo
+("Hello NEW Kernel World!\n");
+
+26 
+	}
+}
+
+28 
+__ex™
+ 
+	$h–lo_moduË_ex™
+()
+
+30 
+	`´_šfo
+("Goodbye Cruel Kernel World!\n");
+
+31 
+	}
+}
+
+33 
+moduË_š™
+(
+h–lo_moduË_š™
+);
+
+34 
+moduË_ex™
+(
+h–lo_moduË_ex™
+);
+
+35 
+MODULE_LICENSE
+("GPL");
+
+	@hello1.c
+
+20 
+	~<lšux/moduË.h
+>
+
+22 
+	$š™_moduË
+()
+
+24 
+	`´štk
+("Hello Kernel World!\n");
+
+26 
+	}
+}
+
+28 
+	$þ—nup_moduË
+()
+
+30 
+	`´štk
+("Goodbye Cruel Kernel World!\n");
+
+31 
+	}
+}
+
+33 
+MODULE_LICENSE
+("GPL");
+
+	@/usr/include/linux/module.h
+
+2 #iâdeà
+_LINUX_MODULE_H
+
+
+3 
+	#_LINUX_MODULE_H
+
+
+	)
+
+6 
+	#MODULE_INIT_IGNORE_MODVERSIONS
+ 1
+
+	)
+
+7 
+	#MODULE_INIT_IGNORE_VERMAGIC
+ 2
+
+	)
+
+	@
+1
+.
+1
+/usr/include
+3
+45
+hello.c
+hello1.c
+/usr/include/linux/module.h
